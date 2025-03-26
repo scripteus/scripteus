@@ -61,6 +61,6 @@ Sou Matheus Henrique Silva Souza, 18 anos. Atualmente cursando Análise e Desenv
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/scripteus/scripteus/output/snake.svg" alt="Snake animation" />
 
 ###
