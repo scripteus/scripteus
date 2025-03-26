@@ -23,10 +23,3 @@ Sou Matheus Henrique Silva Souza, 18 anos. Atualmente cursando Análise e Desenv
 <a href="https://www.linkedin.com/in/scripteus"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="https://instagram.com/scripteus"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
 </div>
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/scripteus/scripteus/output/snake.svg" alt="Snake animation" />
-
-###
