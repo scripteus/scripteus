@@ -6,6 +6,15 @@ Sou Matheus Henrique Silva Souza, 18 anos. Atualmente cursando Análise e Desenv
  
 "[@ScripTeus](https://www.instagram.com/scripteus/)".
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Matheus+Henrique+;I'm+18+years+old;I+am+from+Piumhi,+MG;I+study+analysis+and+systems+development+at+FIAP;Be+Welcome!🫡)](https://git.io/typing-svg) 
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Scrip-Teus&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="ScripTeus github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scrip-Teus&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
