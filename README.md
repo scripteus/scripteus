@@ -47,3 +47,7 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
+
+![snake gif](https://github.com/scripteus/scripteus/blob/output/github-contribution-grid-snake.svg
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=scripteus&repo=scripteus&theme=react)](https://github.com/scripteus/scripteus)
