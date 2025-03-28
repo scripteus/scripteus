@@ -25,10 +25,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" /> </div>
 
-### 📈 GitHub Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=scripteus&theme=github-compact&hide_border=true" />
-</div>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=scripteus&theme=tokyonight" />
+</a>
+
 
 ### 📬 Contact me
 <div align="center"> <a href="mailto:scripteusdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
