@@ -9,46 +9,31 @@ Hi! I'm **Matheus Henrique Silva Souza**, 18 years old, passionate about backend
 ---
 
 ### 🧠 About Me
-- 🔭 Currently working on: Backend projects, APIs, and automation
-- ⚙️ Tech Stack: Java · Spring Boot · Docker · MySQL · TypeScript · Python
-- 🎯 Learning Goals: Clean code, microservices, and advanced backend architecture
-- 📍 Based in: Brazil
-- 🏁 Goal: Work abroad as a software engineer
+- 🎯 Focused on backend systems, automation, and productivity  
+- ⚙️ Learning clean architecture and microservices with Java & Spring  
+- 💻 Applying backend solutions to real challenges at work  
+- 🌍 Goal: Work abroad and stand out in the tech industry  
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=scripteus&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scripteus&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+### 📌 Projects in Progress
 
----
+- 🧩 **Modular Backend Architecture**  
+  Building a scalable backend using Java, Spring Boot, and Docker, following DDD and clean architecture concepts.
 
-### 🔥 Contribution Streak
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=scripteus&theme=tokyonight&hide_border=true" />
-</div>
+- 🔐 **Internal Authentication Service**  
+  Creating a secure microservice for authentication using Spring Security, JWT, and role-based access control.
 
----
+- 🛠 **Service Registry & Configuration Server**  
+  Implementing microservices infrastructure with Spring Cloud (Eureka, Config Server) for dynamic service discovery.
 
-### 📈 GitHub Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=scripteus&theme=github-compact&hide_border=true" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=scripteus&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
-</div>
+- 📦 **API Gateway and Request Routing**  
+  Developing an API Gateway with Spring Cloud Gateway to manage and route external/internal requests securely.
 
 ---
 
 ### 🚀 Technologies & Tools
 <div align="center">
-  <!-- Languages & Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
@@ -59,10 +44,11 @@ Hi! I'm **Matheus Henrique Silva Souza**, 18 years old, passionate about backend
 
 ---
 
-### 📌 Featured Projects
-- 🔐 [secure-api-java](https://github.com/Scrip-Teus/secure-api-java) – Java + Spring Security + JWT
-- 🤖 [python-rpa-bot](https://github.com/Scrip-Teus/python-rpa-bot) – Task automation in Python
-- 🧪 [dockerized-mysql-service](https://github.com/Scrip-Teus/dockerized-mysql-service) – Docker + MySQL backend template
+### 📊 GitHub Stats
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=scripteus&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scripteus&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
 ---
 
@@ -81,4 +67,4 @@ Hi! I'm **Matheus Henrique Silva Souza**, 18 years old, passionate about backend
 
 ---
 
-### 🏁 Let's build the future, one line of code at a time.
+### 🏁 Let’s build something great.
