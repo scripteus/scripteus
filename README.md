@@ -2,7 +2,7 @@
 
 **`BackEnd Developer`**
 
-Hi! I'm **Matheus Henrique Silva Souza**, 18 years old, passionate about backend development and automation.  
+Hi! I'm **Matheus Henrique Silva Souza**, 19 years old, passionate about backend development and automation.  
 📚 Currently studying *Systems Analysis and Development at FIAP* and working at *Sicoob Credialto*.  
 🚀 Focused on mastering **Java**, **Spring Boot**, **MySQL**, **Docker**, **TypeScript**, and **Python** to solve real-world problems and grow as a developer.
 
