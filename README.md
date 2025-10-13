@@ -8,30 +8,6 @@ Hi! I'm **Matheus Henrique Silva Souza**, 19 years old, passionate about backend
 
 ---
 
-### 🧠 About Me
-- 🎯 Focused on backend systems, automation, and productivity  
-- ⚙️ Learning clean architecture and microservices with Java & Spring  
-- 💻 Applying backend solutions to real challenges at work  
-- 🌍 Goal: Work abroad and stand out in the tech industry  
-
----
-
-### 📌 Projects in Progress
-
-- 🧩 **Modular Backend Architecture**  
-  Building a scalable backend using Java, Spring Boot, and Docker, following DDD and clean architecture concepts.
-
-- 🔐 **Internal Authentication Service**  
-  Creating a secure microservice for authentication using Spring Security, JWT, and role-based access control.
-
-- 🛠 **Service Registry & Configuration Server**  
-  Implementing microservices infrastructure with Spring Cloud (Eureka, Config Server) for dynamic service discovery.
-
-- 📦 **API Gateway and Request Routing**  
-  Developing an API Gateway with Spring Cloud Gateway to manage and route external/internal requests securely.
-
----
-
 ### 🚀 Technologies & Tools
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
