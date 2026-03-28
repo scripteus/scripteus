@@ -1,46 +1,38 @@
-# 🧑‍💻 ScripTeus
+# Hi, I'm Matheus Henrique
 
-**`BackEnd Developer`**
+I build backend-first systems that turn manual operational routines into reliable, traceable software products.
 
-Hi! I'm **Matheus Henrique Silva Souza**, 19 years old, passionate about backend development and automation.  
-📚 Currently studying *Systems Analysis and Development at FIAP* and working at *Sicoob Credialto*.  
-🚀 Focused on mastering **Java**, **Spring Boot**, **MySQL**, **Docker**, **TypeScript**, and **Python** to solve real-world problems and grow as a developer.
+## What I do
+- Backend engineering with Java + Spring Boot
+- Internal platforms for security and operations
+- Automation workflows with Python
+- Practical frontends with React or modular JavaScript
 
----
+## Featured Projects
 
-### 🚀 Technologies & Tools
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-</div>
+### ScriptWatch
+Monitoring platform for script executions and automations (logs, status, history, dashboard).
+- Stack: Java 17, Spring Boot, PostgreSQL, HTML/JS
+- Focus: operational observability and traceability
+- Repo: https://github.com/scripteus/ScriptWatch
 
----
+### SecureCoop
+Security awareness platform with phishing/social engineering simulations.
+- Stack: Spring Boot, JWT, PostgreSQL, React, Tailwind
+- Focus: security education and risk visibility
+- Repo: (add public link)
 
-### 📊 GitHub Stats
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=scripteus&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scripteus&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+### Sistema de Chamados
+Internal ticketing workflow with role/permission logic and modular frontend architecture.
+- Stack: JavaScript, HTML/CSS
+- Focus: process organization and service flow
+- Repo: https://github.com/scripteus/sistema-chamados
 
----
+## Current Focus
+- API design and software architecture
+- Testing strategy (unit + integration)
+- CI/CD and production readiness
+- Scalable backend patterns
 
-### 📬 Contact Me
-<div align="center">
-  <a href="mailto:scripteusdev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/scripteus">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://instagram.com/scripteus">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-</div>
-
----
-
-### 🏁 Let’s build something great.
+## Contact
+- LinkedIn: https://www.linkedin.com/in/scripteus/
