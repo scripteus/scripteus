@@ -34,12 +34,6 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=scripteus&style=for-the-badge&color=6D28D9)
-
-![](https://img.shields.io/github/followers/scripteus?style=for-the-badge&color=5B21B6&label=Followers)
-
-![](https://img.shields.io/github/stars/scripteus?affiliations=OWNER&style=for-the-badge&color=7C3AED&label=Stars)
-
 </div>
 
 ---
