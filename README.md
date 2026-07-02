@@ -66,10 +66,7 @@ My interests include:
 
 ### Open To
 
-- Senior Software Engineering Roles
 - AI Engineering Opportunities
-- Product Engineering
-- Cloud Engineering
 - Open Source Collaboration
 - Technical Mentoring
 
@@ -192,7 +189,7 @@ Built with performance, developer experience, scalability, and maintainability a
 
 # Experience
 
-## Software Engineer — Company Name
+## Software Engineer — Sicoob Credialto
 
 **Jan 2024 — Present**
 
